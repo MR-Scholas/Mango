@@ -1,0 +1,34 @@
+html
+{
+    margin-left:0.25vw;
+    margin-top:0.25vh;
+    padding:0%;
+    width:99vw;
+    height:99vh;
+    background-color: salmon;
+}
+
+body
+{
+    margin:0%;
+    padding:0%;
+    width:100%;
+    height:100%;
+}
+
+.everything
+{
+    margin:0%;
+    padding:0%;
+    width:100%;
+    height:100%;
+}
+
+.mango
+{
+    margin:0%;
+    padding:0%;
+    width:100%;
+    height:100%;
+    vertical-align:middle;
+}
